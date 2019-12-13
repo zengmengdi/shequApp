@@ -1,0 +1,37 @@
+.InSearch{
+    display: flex;
+    height: 1rem;
+    line-height: 1rem;
+}
+.SLeft{
+    flex: 1;
+}
+.SRight{
+    width: 2rem;
+    margin: 0 0.3rem;
+}
+.InBanner{
+    height: 3rem;
+}
+.InWeather{
+    height: 1rem;
+    display: flex;
+    line-height: 1rem;
+    justify-content: space-around;
+}
+.IWLeft span{
+    font-size: 0.6rem;
+}
+.IWMain p{
+    line-height: 0.5rem;
+    height: 0.5rem;
+}
+.IWRight p{
+    line-height: 0.5rem;
+    height: 0.5rem;
+}
+/* .searchinput{
+    width: 80%!important;
+    height: 1rem!important;
+    line-height: 1rem!important;
+} */

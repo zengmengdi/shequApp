@@ -1,0 +1,25 @@
+.ttopitem{
+    width: 50%;
+    margin:0.1rem 0;
+    position: relative;
+    text-align: left;
+}
+.ttopitem img{
+    width: 90%;
+    margin:0 auto;
+    height:2.5rem
+}
+.ttopitem p{
+    width: 70%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+.ttopitem .limg{
+    width: 0.6rem;
+    height: 0.6rem;
+    border-radius: 50%;
+    position: absolute;
+    right: 0.4rem;
+    bottom: 0;
+}

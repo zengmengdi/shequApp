@@ -1,0 +1,9 @@
+.gridItem{
+    width: 0.8rem;
+    height: 0.8rem;
+    margin: 0 auto;
+    border-radius: 50%;
+}
+.gridItem img{
+    margin-top: 0.1rem;
+}

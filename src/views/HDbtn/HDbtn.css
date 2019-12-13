@@ -1,0 +1,38 @@
+.HDbtn {
+    height          : 0.7rem;
+    line-height     : 0.7rem;
+    display         : flex;
+    background-color: #f0eff5;
+    justify-content : space-around;
+}
+
+.HDbtn button {
+    height       : 0.5rem;
+    line-height  : 0.5rem;
+    border-radius: 0.1rem;
+}
+
+.btn-share {
+    width           : 1.9rem;
+    color           : #333333;
+    background-color: white;
+    border          : 1px solid #ff6600;
+}
+
+.btn-ask {
+    color           : white;
+    background-color: #ff6600;
+    border          : none;
+    width           : 4.2rem;
+}
+
+.f20 {
+    font-size: 0.28rem;
+}
+
+.hdbtnfix {
+    width   : 100vw;
+    position: fixed;
+    bottom  : 0;
+    left    : 0;
+}

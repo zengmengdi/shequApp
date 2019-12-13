@@ -1,0 +1,99 @@
+.Lmain {
+    padding-top: 0.3rem;
+}
+
+.iItem {
+    position: relative;
+    width   : 5rem;
+    margin  : 0rem auto;
+}
+
+.iItem span {
+    width    : 0.4rem;
+    height   : 0.4rem;
+    font-size: 0.4rem;
+    position : absolute;
+    top      : 0.3rem;
+    left     : 0.1rem;
+}
+
+.iItem input {
+    width       : 4.4rem;
+    height      : 1rem;
+    line-height : 0.76rem;
+    padding-left: 0.6rem;
+    border      : 1px solid #ccc;
+    box-sizing  : content-box;
+    font-size: 0.3rem;
+}
+
+.iItem .input3 {
+    border-top   : none;
+    border-bottom: none;
+}
+
+.iItem .input1 {
+    border-bottom: none;
+    border-radius: 0.05rem 0.05rem 0 0;
+}
+
+.iItem .input2 {
+    border-radius: 0 0 0.05rem 0.05rem;
+}
+
+.btndiv {
+    width : 5rem;
+    margin: 0.2rem auto;
+    font-size: 0.3rem;
+}
+
+.btndiv .btn-login {
+    height          : 0.76rem;
+    width           : 5rem;
+    border          : 1px solid #ccc;
+    background-color: #007af5;
+    color           : white;
+    border-radius   : 0.05rem;
+}
+
+.lFooter {
+    text-align: center;
+}
+
+.Ftext {
+    position  : relative;
+    width     : 6rem;
+    margin    : 0.5rem auto;
+    border-top: 1px solid gray;
+    height    : 4rem;
+}
+
+.Ftext p {
+    text-align: center;
+    margin-top: 0.4rem;
+}
+
+.spantxt {
+    position        : absolute;
+    top             : -0.2rem;
+    left            : 50%;
+    margin-left     : -0.75rem;
+    background-color: #f0eff5;
+    width           : 1.5rem;
+}
+
+.lFooter .Ftext .Lchoose {
+    display : flex;
+    overflow: hidden;
+}
+
+.lFooter .Ftext .Lchoose div {
+    flex       : 1;
+    padding-top: 1rem;
+}
+
+.lFooter .Ftext .Lchoose div img {
+    width : 1rem;
+    height: 1rem;
+
+}

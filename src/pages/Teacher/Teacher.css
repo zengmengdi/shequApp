@@ -1,0 +1,24 @@
+.IW{
+    display: flex;
+}
+.iiLeft span{
+    font-size: 0.8rem;
+}
+.iiRight p{
+    line-height: 0.5rem;
+}
+.TeaList{
+    height: 2rem;
+}
+.teacherTop{
+    text-align: center;
+}
+.icon-user_name1{
+    font-size: 0.4rem;
+}
+.icon-distance{
+    color: #128deb;
+}
+.icon-xiaoxue{
+    color:#f8991b
+}

@@ -1,0 +1,153 @@
+.WDfirst,
+.WDsecond,
+.WDthird,
+.WDforth {
+    margin          : 0.1rem;
+    background-color: white;
+}
+
+.Wdfirst {
+    display: flex;
+    height : 2rem;
+}
+
+.wfleft,
+.wfleft img {
+    width : 1.96rem;
+    height: 1.8rem;
+    margin: 0.05rem 0.2rem 0 0;
+
+}
+
+.wfright {
+    flex: 1;
+}
+
+.f30 {
+    font-size  : 0.3rem;
+    line-height: 0.4rem;
+    font-weight: bold;
+    margin-top : 0.1rem;
+}
+
+.f222 {
+    font-size: 0.28rem;
+}
+
+.flex {
+    display: flex;
+}
+
+.tongscore {
+    line-height: 0.3rem;
+    height     : 0.3rem;
+    margin     : 0.1rem 0 0.2rem 0;
+}
+
+.tong {
+    margin-left: 0.3rem;
+}
+
+.wfright p {
+    text-align: right;
+}
+
+.wdsec {
+    height: 1rem;
+}
+
+.wdsleft {
+    width : 0.3rem;
+    margin: 0 0.2rem;
+}
+
+.wdsmid {
+    flex: 1;
+}
+
+.wdslicon {
+    display   : block;
+    margin-top: 0.2rem;
+}
+
+.wdsspan {
+    margin: 0.15rem 0;
+}
+
+.wdsright {
+    width      : 1rem;
+    height     : 1rem;
+    position   : relative;
+    border-left: 1px solid #ccc;
+}
+
+.wdddphone {
+    font-size: 0.5rem;
+    width    : 0.5rem;
+    height   : 0.5rem;
+    color: orangered;
+    position : absolute;
+    left     : 0;
+    bottom   : 0;
+    right    : 0;
+    top      : 0;
+    margin   : auto
+}
+.wdthir,.wdfort{
+    overflow: hidden;
+    margin-bottom: 0.2rem;
+}
+.wdttitle{
+    margin: 0.2rem 0 0 0.1rem;
+}
+.wdtcon{
+    height: 1rem;
+    overflow: hidden;
+    box-sizing: border-box;
+    padding:0.1rem 0.2rem;
+}
+.wdfortfff{
+    flex: 1;
+}
+/* repair。css */
+.wdtop{
+    display: flex;
+    height: 0.6rem;
+    line-height: 0.6rem;
+    width: 100%;
+    padding-bottom: 0.2rem;
+    border-bottom: 1px solid #ccc;
+}
+.wddr{
+    flex: 1;
+    text-align: right;
+    padding-right: 0.2rem;
+    margin-top: 0.1rem;
+}
+.wdmdis{
+    margin-top: 0.2rem;
+}
+.wdmid{
+    flex-direction: column;
+}
+.wdmid p{
+    padding-left: 0.2rem;
+    line-height: 0.4rem;
+}
+.wdmbtn button{
+    width: 1.5rem;
+    border: none;
+    margin-right: 0.2rem;
+    padding:0.1rem;
+    color:#fff;
+    border-radius: 0.1rem;
+}
+.rdbtn1{
+    background-color: #54c537;
+}
+.rdbtn2{
+    background-color: #30adef;
+}
+.wddright{
+    text-align: right;
+}

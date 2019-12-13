@@ -1,0 +1,11 @@
+.homenav {
+    display    : flex;
+    height     : 0.7rem;
+    line-height: 0.7rem;
+}
+
+.homenav select {
+    flex            : 1;
+    color           : #999;
+    background-color: #f5f5f5;
+}

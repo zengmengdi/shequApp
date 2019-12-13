@@ -1,0 +1,11 @@
+.loading{
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  left: 0px;
+  top: 0px;
+  background: rgba(0, 0, 0, 0.5);
+  color: #fff;
+  font-size: 40px;
+  transition:all 0.5s;
+}

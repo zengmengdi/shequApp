@@ -1,0 +1,40 @@
+.ReviewItem{
+    height: 1.4rem;
+    display: flex;
+}
+.ReLeft{
+    width: 1rem;
+    height: 1rem;
+    margin-right: 0.3rem;
+}
+.ReLeft img{
+    width: 0.8rem;
+    height: 0.8rem;
+    border-radius: 50%;
+    border: 1px solid #ccc;
+}
+.ReRight{
+    flex:1
+}
+.ReRtop{
+    display: flex;
+    margin-bottom: 0.2rem;
+}
+.revname{
+    font-weight: bold;
+    flex:1;
+}
+.revtime{
+    width: 1rem;
+    text-align: right;
+}
+.revp{
+    height:0.6rem;
+    line-height: 0.3rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    margin-bottom: 0.2rem;
+}
