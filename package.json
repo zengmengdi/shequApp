@@ -9,7 +9,7 @@
     "qiniu-js": "^2.5.5",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
-    "react-scripts": "3.3.0"
+    "react-scripts": "5.0.1"
   },
   "proxy": "http://192.168.254.128:3000",
   "scripts": {
